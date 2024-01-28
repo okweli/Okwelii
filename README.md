@@ -6,3 +6,5 @@ As a data analyst, I understand the importance of transforming raw data into mea
 How to reach me LinkedIn[https://www.linkedin.com/in/jerome-ikechukwu-okweli-15a9682ab?utm]
 
 I'm working on some cool data projects, using tools like Excel, Tableau, SQL. I'm doing this to level up my skills.
+
+ 😄 Pronouns He
